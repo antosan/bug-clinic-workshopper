@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/antosan/bug-clinic-workshopper#readme",
   "dependencies": {
-    "bug-clinic": "^1.1.5"
+    "bug-clinic": "^1.1.5",
+    "bunyan": "^1.8.10"
   }
 }
