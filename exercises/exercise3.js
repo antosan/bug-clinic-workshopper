@@ -1,4 +1,4 @@
-const today = "today";
+var today = "today";
 
 function timestamp() {
     today = Date();
