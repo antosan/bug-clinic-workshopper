@@ -4,7 +4,8 @@
   "description": "Learn some new tools and techniques as you improve your debugging skills.",
   "main": "index.js",
   "scripts": {
-    "start": "bug-clinic"
+    "start": "bug-clinic",
+    "jshint": "jshint --config .jshintrc exercises/"
   },
   "repository": {
     "type": "git",
