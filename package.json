@@ -1,0 +1,25 @@
+{
+  "name": "bug-clinic",
+  "version": "1.0.0",
+  "description": "Learn some new tools and techniques as you improve your debugging skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antosan/bug-clinic-workshopper.git"
+  },
+  "keywords": [
+    "NodeSchool",
+    "Workshopper",
+    "Bug",
+    "Clinic"
+  ],
+  "author": "Antony Sande <antonysande.com>",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/antosan/bug-clinic-workshopper/issues"
+  },
+  "homepage": "https://github.com/antosan/bug-clinic-workshopper#readme"
+}
