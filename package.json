@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "bug-clinic",
-    "jshint": "jshint --config .jshintrc exercises/"
+    "jshint": "jshint --config .jshintrc exercises/",
+    "eslint": "eslint --config .eslintrc exercises/"
   },
   "repository": {
     "type": "git",
