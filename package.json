@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/antosan/bug-clinic-workshopper/issues"
   },
-  "homepage": "https://github.com/antosan/bug-clinic-workshopper#readme"
+  "homepage": "https://github.com/antosan/bug-clinic-workshopper#readme",
+  "dependencies": {
+    "bug-clinic": "^1.1.5"
+  }
 }
